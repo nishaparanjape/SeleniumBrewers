@@ -10,7 +10,7 @@ import io.cucumber.junit.CucumberOptions;
                  glue = "step_definitions", 
                  dryRun = false, 
                  monochrome = true,
-		      // tags = "@Test_suit_register_03",
+		       //tags = "Student2.feature",
 		         plugin = { "pretty", "html:target/DsalgoXpathers_Home.html",
 		        		 "io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm",
 		        		 "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"
