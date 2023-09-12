@@ -1,0 +1,221 @@
+['INFO ]2023-09-11 18:50:53,196(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:50:53,201(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:50:55,549(YYYY-MM-ddHH:MM:ss.SSS][main]webdriver_manager.DriverManager1)-Launched chrome
+['INFO ]2023-09-11 18:50:57,300(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:51:02,473(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:51:02,474(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:51:03,388(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:51:08,435(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:51:08,436(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:51:09,341(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:51:14,386(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:51:14,386(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:51:15,242(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:51:20,332(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:51:20,332(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:51:22,015(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:51:27,109(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:51:27,110(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:51:27,910(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:51:32,968(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:51:32,969(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:51:33,764(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:51:38,872(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:51:38,873(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:51:39,670(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:51:44,731(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:51:44,731(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:51:45,519(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:51:50,597(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:51:50,598(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:51:51,406(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:51:56,515(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:51:56,515(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:51:57,295(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:52:02,373(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:52:02,374(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:52:07,460(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:52:07,461(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:52:07,467(YYYY-MM-ddHH:MM:ss.SSS][main]page_objects.StudentModule1)-Logged on to LMS portl
+['INFO ]2023-09-11 18:52:08,253(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:52:13,306(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:52:13,307(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:52:13,311(YYYY-MM-ddHH:MM:ss.SSS][main]page_objects.StudentModule1)-Logged on to LMS portl
+['INFO ]2023-09-11 18:52:14,237(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:52:14,237(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:52:14,246(YYYY-MM-ddHH:MM:ss.SSS][main]page_objects.StudentModule1)-Logged on to LMS portl
+['INFO ]2023-09-11 18:52:15,025(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:52:20,096(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:52:20,097(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:52:20,101(YYYY-MM-ddHH:MM:ss.SSS][main]page_objects.StudentModule1)-Logged on to LMS portl
+['INFO ]2023-09-11 18:52:20,881(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:52:25,947(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:52:25,947(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:52:25,952(YYYY-MM-ddHH:MM:ss.SSS][main]page_objects.StudentModule1)-Logged on to LMS portl
+['INFO ]2023-09-11 18:52:26,726(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:52:31,774(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:52:31,774(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:52:31,778(YYYY-MM-ddHH:MM:ss.SSS][main]page_objects.StudentModule1)-Logged on to LMS portl
+['INFO ]2023-09-11 18:52:32,558(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:52:37,641(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:52:37,641(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:52:37,645(YYYY-MM-ddHH:MM:ss.SSS][main]page_objects.StudentModule1)-Logged on to LMS portl
+['INFO ]2023-09-11 18:52:38,444(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:52:43,515(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:52:43,517(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:52:43,520(YYYY-MM-ddHH:MM:ss.SSS][main]page_objects.StudentModule1)-Logged on to LMS portl
+['INFO ]2023-09-11 18:52:44,338(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:52:49,376(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:52:49,376(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:52:49,380(YYYY-MM-ddHH:MM:ss.SSS][main]page_objects.StudentModule1)-Logged on to LMS portl
+['INFO ]2023-09-11 18:52:50,184(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:52:55,232(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:52:55,232(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:52:55,236(YYYY-MM-ddHH:MM:ss.SSS][main]page_objects.StudentModule1)-Logged on to LMS portl
+['INFO ]2023-09-11 18:52:56,148(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:53:01,203(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:53:01,203(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:53:01,205(YYYY-MM-ddHH:MM:ss.SSS][main]page_objects.StudentModule1)-Logged on to LMS portl
+['INFO ]2023-09-11 18:53:01,979(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:53:07,041(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:53:07,042(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:53:07,044(YYYY-MM-ddHH:MM:ss.SSS][main]page_objects.StudentModule1)-Logged on to LMS portl
+['INFO ]2023-09-11 18:53:07,814(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:53:12,874(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:53:12,875(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:53:12,878(YYYY-MM-ddHH:MM:ss.SSS][main]page_objects.StudentModule1)-Logged on to LMS portl
+['INFO ]2023-09-11 18:53:13,662(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:53:18,745(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:53:18,746(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:53:18,749(YYYY-MM-ddHH:MM:ss.SSS][main]page_objects.StudentModule1)-Logged on to LMS portl
+['INFO ]2023-09-11 18:53:19,515(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:53:24,569(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:53:24,569(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:53:24,572(YYYY-MM-ddHH:MM:ss.SSS][main]page_objects.StudentModule1)-Logged on to LMS portl
+['INFO ]2023-09-11 18:53:25,349(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:53:30,425(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:53:30,426(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:53:30,429(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Logged on to LMS portl as Admin
+['INFO ]2023-09-11 18:53:31,322(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:53:36,395(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:53:36,396(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:53:36,400(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Logged on to LMS portl as Admin
+['INFO ]2023-09-11 18:53:37,181(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:53:42,247(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:53:42,247(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:53:42,250(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Logged on to LMS portl as Admin
+['INFO ]2023-09-11 18:53:43,023(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:53:48,058(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:53:48,059(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:53:48,062(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Logged on to LMS portl as Admin
+['INFO ]2023-09-11 18:53:48,839(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:53:53,869(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:53:53,870(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:53:53,873(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Logged on to LMS portl as Admin
+['INFO ]2023-09-11 18:53:54,642(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:53:59,710(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:53:59,710(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:53:59,713(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Logged on to LMS portl as Admin
+['INFO ]2023-09-11 18:54:00,510(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:54:05,584(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:54:05,584(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:54:05,589(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Logged on to LMS portl as Admin
+['INFO ]2023-09-11 18:54:06,364(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:54:11,400(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:54:11,400(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:54:11,404(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Logged on to LMS portl as Admin
+['INFO ]2023-09-11 18:54:12,169(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:54:17,211(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:54:17,211(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:54:17,214(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Logged on to LMS portl as Admin
+['INFO ]2023-09-11 18:54:17,982(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:54:23,019(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:54:23,019(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:54:23,022(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Logged on to LMS portl as Admin
+['INFO ]2023-09-11 18:54:23,786(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:54:28,823(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:54:28,824(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:54:28,827(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Logged on to LMS portl as Admin
+['INFO ]2023-09-11 18:54:29,630(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:54:34,670(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:54:34,670(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:54:34,673(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Logged on to LMS portl as Admin
+['INFO ]2023-09-11 18:54:35,458(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:54:40,546(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:54:40,547(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:54:40,549(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Logged on to LMS portl as Admin
+['INFO ]2023-09-11 18:54:41,328(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:54:46,398(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:54:46,399(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:54:46,402(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Logged on to LMS portl as Admin
+['INFO ]2023-09-11 18:54:47,166(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:54:52,184(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:54:52,184(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:54:52,186(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Logged on to LMS portl as Admin
+['INFO ]2023-09-11 18:54:52,954(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:54:58,030(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:54:58,031(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:54:58,035(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Logged on to LMS portl as Admin
+['INFO ]2023-09-11 18:54:58,803(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:55:03,878(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:55:03,878(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:55:03,881(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Logged on to LMS portl as Admin
+['INFO ]2023-09-11 18:55:04,689(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on dashboard page : 
+['INFO ]2023-09-11 18:55:09,762(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:55:09,764(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:55:09,766(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin loggen in and on student details page
+['INFO ]2023-09-11 18:55:09,768(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on student details page
+['INFO ]2023-09-11 18:55:09,769(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin selects the student name from the dropdown
+['INFO ]2023-09-11 18:55:14,809(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:55:14,809(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:55:14,811(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin loggen in and on student details page
+['INFO ]2023-09-11 18:55:14,812(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on student details page
+['INFO ]2023-09-11 18:55:14,813(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin selects a batch id from the dropdown
+['INFO ]2023-09-11 18:55:19,843(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:55:19,843(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:55:19,846(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin loggen in and on student details page
+['INFO ]2023-09-11 18:55:19,846(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on student details page
+['INFO ]2023-09-11 18:55:24,921(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:55:24,922(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:55:24,925(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin loggen in and on student details page
+['INFO ]2023-09-11 18:55:24,925(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on student details page
+['INFO ]2023-09-11 18:55:29,996(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:55:29,997(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:55:29,999(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin loggen in and on student details page
+['INFO ]2023-09-11 18:55:30,000(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on student details page
+['INFO ]2023-09-11 18:55:35,077(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:55:35,077(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:55:35,079(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin loggen in and on student details page
+['INFO ]2023-09-11 18:55:35,080(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on student details page
+['INFO ]2023-09-11 18:55:40,160(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:55:40,160(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:55:40,163(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin loggen in and on student details page
+['INFO ]2023-09-11 18:55:40,164(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on student details page
+['INFO ]2023-09-11 18:55:45,245(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:55:45,246(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:55:45,249(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin loggen in and on student details page
+['INFO ]2023-09-11 18:55:45,250(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on student details page
+['INFO ]2023-09-11 18:55:50,276(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:55:50,277(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:55:50,279(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin loggen in and on student details page
+['INFO ]2023-09-11 18:55:50,280(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on student details page
+['INFO ]2023-09-11 18:55:55,364(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:55:55,364(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:55:55,366(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin loggen in and on student details page
+['INFO ]2023-09-11 18:55:55,368(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on student details page
+['INFO ]2023-09-11 18:56:00,443(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:56:00,443(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:56:00,446(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin loggen in and on student details page
+['INFO ]2023-09-11 18:56:00,446(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on student details page
+['INFO ]2023-09-11 18:56:05,519(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:56:05,519(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:56:05,522(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin loggen in and on student details page
+['INFO ]2023-09-11 18:56:05,523(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on student details page
+['INFO ]2023-09-11 18:56:10,596(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:56:10,598(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:56:10,601(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin loggen in and on student details page
+['INFO ]2023-09-11 18:56:10,602(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on student details page
+['INFO ]2023-09-11 18:56:15,685(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Instantiation the commonutils
+['INFO ]2023-09-11 18:56:15,686(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.common_step_definition1)-Launch Browser
+['INFO ]2023-09-11 18:56:15,688(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin loggen in and on student details page
+['INFO ]2023-09-11 18:56:15,689(YYYY-MM-ddHH:MM:ss.SSS][main]step_definitions.Student1)-Admin is on student details page

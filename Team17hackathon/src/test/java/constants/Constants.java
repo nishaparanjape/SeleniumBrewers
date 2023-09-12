@@ -2,7 +2,7 @@ package constants;
 
 public class Constants {
 	
-	public static String APP_URL;
+	public static String APP_URL="www.google.com";
 	
 	public static String BROWSER;
 	public static String USERNAME;

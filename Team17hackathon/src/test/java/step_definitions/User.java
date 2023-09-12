@@ -294,7 +294,7 @@ public class User {
 	public void fill_in_all_the_fields_except_optional_fields_with_valid_values_and_click_submit() 
 			throws IOException {
 	    String strFilePath  = System.getProperty("user.dir") + 
-				"/src/test/resources/excelFiles/Datadriventest.xlsx";
+				"/src/test/resources/excelFiles/TestCaseData.xlsx";
 		ExcelReader.setFilePath(strFilePath);
 		ExcelReader.setSheetNo(0);
 		ExcelReader.setRowNo(1);
@@ -342,7 +342,7 @@ public class User {
 	    boolean displayedFlag = false;
 	    String data;
 	    String strFilePath  = System.getProperty("user.dir") + 
-				"/src/test/resources/excelFiles/Datadriventest.xlsx";
+				"/src/test/resources/excelFiles/TestCaseData.xlsx";
 		ExcelReader.setFilePath(strFilePath);
 		ExcelReader.setSheetNo(0);
 		ExcelReader.setRowNo(1);
@@ -367,7 +367,7 @@ public class User {
 	@When("Fill in all the fields with valid values and click submit")
 	public void fill_in_all_the_fields_with_valid_values_and_click_submit() throws IOException {
 		String strFilePath  = System.getProperty("user.dir") + 
-				"/src/test/resources/excelFiles/Datadriventest.xlsx";
+				"/src/test/resources/excelFiles/TestCaseData.xlsx";
 		ExcelReader.setFilePath(strFilePath);
 		ExcelReader.setSheetNo(0);
 		ExcelReader.setRowNo(2);
@@ -410,7 +410,7 @@ public class User {
 	@When("any of the fields have invalid values")
 	public void any_of_the_fields_have_invalid_values() throws IOException {
 		String strFilePath  = System.getProperty("user.dir") + 
-				"/src/test/resources/excelFiles/Datadriventest.xlsx";
+				"/src/test/resources/excelFiles/TestCaseData.xlsx";
 		ExcelReader.setFilePath(strFilePath);
 		ExcelReader.setSheetNo(0);
 		ExcelReader.setRowNo(3);
@@ -506,7 +506,7 @@ public class User {
 	public void update_the_fields_with_valid_values_and_click_submit() 
 			throws IOException {
 		String strFilePath  = System.getProperty("user.dir") + 
-				"/src/test/resources/excelFiles/Datadriventest.xlsx";
+				"/src/test/resources/excelFiles/TestCaseData.xlsx";
 		ExcelReader.setFilePath(strFilePath);
 		ExcelReader.setSheetNo(0);
 		ExcelReader.setRowNo(0);
@@ -539,7 +539,7 @@ public class User {
 	    boolean displayedFlag = false;
 	    String data;
 	    String strFilePath  = System.getProperty("user.dir") + 
-				"/src/test/resources/excelFiles/Datadriventest.xlsx";
+				"/src/test/resources/excelFiles/TestCaseData.xlsx";
 		ExcelReader.setFilePath(strFilePath);
 		ExcelReader.setSheetNo(0);
 		ExcelReader.setRowNo(1);
@@ -565,7 +565,7 @@ public class User {
 	public void update_the_fields_with_invalid_values_and_click_submit() 
 			throws IOException {
 		String strFilePath  = System.getProperty("user.dir") + 
-				"/src/test/resources/excelFiles/Datadriventest.xlsx";
+				"/src/test/resources/excelFiles/TestCaseData.xlsx";
 		ExcelReader.setFilePath(strFilePath);
 		ExcelReader.setSheetNo(0);
 		ExcelReader.setRowNo(3);
@@ -665,7 +665,7 @@ public class User {
 		    boolean displayedFlag = false;
 		    String data;
 		    String strFilePath  = System.getProperty("user.dir") + 
-					"/src/test/resources/excelFiles/Datadriventest.xlsx";
+					"/src/test/resources/excelFiles/TestCaseData.xlsx";
 			ExcelReader.setFilePath(strFilePath);
 			ExcelReader.setSheetNo(0);
 			ExcelReader.setRowNo(1);
@@ -704,7 +704,7 @@ public class User {
 	    boolean displayedFlag = false;
 	    String data;
 	    String strFilePath  = System.getProperty("user.dir") + 
-				"/src/test/resources/excelFiles/Datadriventest.xlsx";
+				"/src/test/resources/excelFiles/TestCaseData.xlsx";
 		ExcelReader.setFilePath(strFilePath);
 		ExcelReader.setSheetNo(0);
 		ExcelReader.setRowNo(1);
@@ -769,7 +769,7 @@ public class User {
 	    boolean displayedFlag = false;
 	    String data;
 	    String strFilePath  = System.getProperty("user.dir") + 
-				"/src/test/resources/excelFiles/Datadriventest.xlsx";
+				"/src/test/resources/excelFiles/.xlsx";
 		ExcelReader.setFilePath(strFilePath);
 		ExcelReader.setSheetNo(0);
 		ExcelReader.setRowNo(3);

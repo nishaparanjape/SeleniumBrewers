@@ -32,9 +32,10 @@ public class Student {
 	common_utils objCommounUtils = new common_utils();
 	static long startTime;
 	String txtLogMessage = "";
+//	private static final Logger LOGGER = 
+//			LogManager.getLogger(StudentModule.class);
 	private static final Logger LOGGER = 
-			LogManager.getLogger(StudentModule.class);
-	
+			LogManager.getLogger();
 	public Student() {
 		driver.manage().timeouts().implicitlyWait(Duration.ofMillis(5000));
 	}

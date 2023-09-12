@@ -34,7 +34,8 @@ public class common_utils {
 
 		Properties properties = new Properties();
 		try {
-			properties.load(getClass().getResourceAsStream("/config.properties"));
+			properties.load(getClass().
+					getResourceAsStream("/config.properties"));
 		} catch (IOException e) {
 
 			e.printStackTrace();
