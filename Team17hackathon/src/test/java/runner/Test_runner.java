@@ -1,23 +1,33 @@
 package runner;
 
-import org.junit.runner.RunWith;
+import org.testng.annotations.DataProvider;
 
-import io.cucumber.junit.Cucumber;
-import io.cucumber.junit.CucumberOptions;
+//import io.cucumber.junit.CucumberOptions;
 
-@RunWith(Cucumber.class)
+//import org.junit.runner.RunWith;
+
+//import io.cucumber.junit.Cucumber;
+//import io.cucumber.junit.CucumberOptions;
+import io.cucumber.testng.AbstractTestNGCucumberTests;
+import io.cucumber.testng.CucumberOptions;
+
+//@RunWith(Cucumber.class)
 @CucumberOptions(features = "src/test/resources/features/",
                  glue = "step_definitions", 
                  dryRun = false, 
                  monochrome = true,
-		      // tags = "@Test_suit_register_03",
-		         plugin = { "pretty", "html:target/DsalgoXpathers_Home.html",
+		     
+		         plugin = { "pretty", "html:target/CucumberReport.html",
 		        		 "io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm",
 		        		 "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"
 })
-public class Test_runner {
+public class Test_runner extends AbstractTestNGCucumberTests {
+	@DataProvider(parallel = false)
+	public Object[][] scenarios() {
+
+		return super.scenarios();
+	}
 
 }
 
-// Tips for final run
-// Make sure to have the correct user name and pwd. Reg.feature file 79 has to be changed
+

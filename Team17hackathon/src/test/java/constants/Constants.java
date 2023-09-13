@@ -6,32 +6,20 @@ public class Constants {
 	public static String BROWSER;
 	public static String USERNAME;
 	public static String PASSWORD;
-	public static String REG_URL;
-	public static String SIGNIN_URL;
-	public static String HOME_URL;
+	public static String INVALID_URL;
+	
+	public static String homePageTitle;
+	public static String LOGIN_URL;
+	public static String Dashboard_URL;
 	public static String EXCEL_PATH;
+	public static String loginPageTitle;
 	
-	//Queue page 
+	public static String loginPageHeader;
+	public static String userNameText;
+	public static String passWordText;
+	public static String TextFontColor;
 	
-	public static String HOMEPAGEURL;
-	public static String EDITORURL;
-	public static String QUEUEPAGEURL;
-	public static String QUEUEOPRATIONLINK;
-	
-	//graph page
-	
-	public static String GRAPHPAGEURL;
-	public static String GRAPHEDITORURL;
-	public static String GRAPHOPRATIONLINK;
-			
-	//stack page
-	
-	public static  String STACKPAGE_URL;
-	public static  String OPERATIONSINSTACK_URL;
-	public static  String IMPLEMENTATION_URL;
-	public static  String APPLICATIONS_URL;
-	public static  String PRACTICEQUESTIONS_URL;
-	public static  String TRYEDITOR_URL;
-	public static String Timecomplexitypage;
-	public static String Practice_Questions_link;
+	public static String DashboardTitle;
 }
+	
+	

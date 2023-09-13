@@ -9,6 +9,7 @@ import org.openqa.selenium.edge.EdgeDriver;
 import constants.Constants;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
+
 public class DriverManager {
 
 	private static final Logger LOGGER = LogManager.getLogger(DriverManager.class);
@@ -26,9 +27,11 @@ public class DriverManager {
 			switch (Constants.BROWSER) {
 			case "chrome":
 				// System.setProperty("webdriver.chrome.driver", null);
-				WebDriverManager.chromedriver().setup();
-				LOGGER.info("Launched " + Constants.BROWSER);
+				System.out.println("before chrome launch");
+				//WebDriverManager.chromedriver().clearDriverCache().setup();
 				driver = new ChromeDriver();
+				LOGGER.info("Launched " + Constants.BROWSER);
+				System.out.println("after chrome launch");
 				break;
 			case "edge":
 				// System.setProperty("webdriver.chrome.driver", null);

@@ -18,14 +18,9 @@ import org.openqa.selenium.support.PageFactory;
 
 import constants.Constants;
 import io.qameta.allure.Allure;
-import page_objects.ArrayPage;
-import page_objects.Datastructure;
+import page_objects.DashboardPage;
 import page_objects.HomePage;
-import page_objects.Linkedlistpage;
-import page_objects.QueuePage;
-import page_objects.Registerpage;
-import page_objects.SigninPage;
-import page_objects.Stackpage;
+import page_objects.LoginPage;
 import webdriver_manager.DriverManager;
 
 public class common_utils {
@@ -41,46 +36,31 @@ public class common_utils {
 		}
 
 		Constants.APP_URL = properties.getProperty("APP_URL");
+		Constants.INVALID_URL = properties.getProperty("INVALID_URL");
 		Constants.BROWSER = properties.getProperty("BROWSER");
 		Constants.USERNAME = properties.getProperty("USERNAME");
 		Constants.PASSWORD = properties.getProperty("PASSWORD");
-		Constants.REG_URL = properties.getProperty("REG_URL");
-		Constants.SIGNIN_URL = properties.getProperty("SIGNIN_URL");
-		Constants.HOME_URL = properties.getProperty("HOME_URL");
+		
+		
+		
+		//Constants.LOGIN_URL = properties.getProperty("LOGIN_URL");
+		Constants.Dashboard_URL = properties.getProperty("Dashboard_URL");
 		Constants.EXCEL_PATH = properties.getProperty("EXCEL_PATH");
-		// queue page
-		Constants.SIGNIN_URL = properties.getProperty("SIGNIN_URL");
-		Constants.HOMEPAGEURL = properties.getProperty("HOMEPAGEURL");
-		Constants.EDITORURL = properties.getProperty("EDITORURL");
-		Constants.QUEUEPAGEURL = properties.getProperty("QUEUEPAGEURL");
-		Constants.QUEUEOPRATIONLINK = properties.getProperty("QUEUEOPRATIONLINK");
-
-		// graph page
-		Constants.GRAPHPAGEURL = properties.getProperty("GRAPHPAGEURL");
-		Constants.GRAPHEDITORURL = properties.getProperty("GRAPHEDITORURL");
-		Constants.GRAPHOPRATIONLINK = properties.getProperty("GRAPHOPRATIONLINK");
-
-		// stack page
-		Constants.STACKPAGE_URL = properties.getProperty("STACKPAGE_URL");
-		Constants.OPERATIONSINSTACK_URL = properties.getProperty("OPERATIONSINSTACK_URL");
-		Constants.IMPLEMENTATION_URL = properties.getProperty("IMPLEMENTATION_URL");
-		Constants.APPLICATIONS_URL = properties.getProperty("APPLICATIONS_URL");
-		Constants.PRACTICEQUESTIONS_URL = properties.getProperty("PRACTICEQUESTIONS_URL");
-		Constants.TRYEDITOR_URL = properties.getProperty("TRYEDITOR_URL");
-		Constants.Timecomplexitypage = properties.getProperty("Timecomplexitypage");
-
+		Constants.homePageTitle=properties.getProperty("homePageTitle");
+		Constants.loginPageTitle = properties.getProperty("loginPageTitle");
+		Constants.loginPageHeader = properties.getProperty("loginPageHeader");
+		Constants.userNameText = properties.getProperty("userNameText");
+		Constants.passWordText = properties.getProperty("passWordText");
+		Constants.TextFontColor=properties.getProperty("TextFontColor");
+		Constants.DashboardTitle=properties.getProperty("DashboardTitle");
 	}
 
 	// All the page class has to be initialized in this method
 	public void initWebElements() {
 		PageFactory.initElements(DriverManager.getDriver(), HomePage.getInstance());
-		PageFactory.initElements(DriverManager.getDriver(), Registerpage.getInstance());
-		PageFactory.initElements(DriverManager.getDriver(), SigninPage.getInstance());
-		PageFactory.initElements(DriverManager.getDriver(), ArrayPage.getInstance());
-		PageFactory.initElements(DriverManager.getDriver(), QueuePage.getInstance());
-		PageFactory.initElements(DriverManager.getDriver(), Stackpage.getInstance());
-		PageFactory.initElements(DriverManager.getDriver(), Linkedlistpage.getInstance());
-		PageFactory.initElements(DriverManager.getDriver(), Datastructure.getInstance());
+		PageFactory.initElements(DriverManager.getDriver(), LoginPage.getInstance());
+	PageFactory.initElements(DriverManager.getDriver(), DashboardPage.getInstance());
+	
 	}
 
 	public ArrayList<ArrayList<String>> readExcelData() {
