@@ -54,10 +54,10 @@ public class Student {
 		 LOGGER.info("Admin loggen in and on student details page");	
 	}
 
-	@Given("Admin is on dashboard page after Login")
+	@Given("Student_Admin is on dashboard page after Login")
 	public void admin_is_on_dashboard_page_after_login() {
 		driver.get(Constants.SIGNIN_URL);
-		driver.manage().window().maximize();
+		//driver.manage().window().maximize();
 		//SignPage.Signin(Constants.USERNAME, Constants.PASSWORD);
 		LOGGER.info("Admin is on dashboard page : ");
 		System.out.println("Admin is on dashboard page after login ");}
@@ -78,7 +78,7 @@ public class Student {
 	    assertEquals(strTitle,"Student Details Page", "Student details page not seen");
 	}
 
-	@Then("Maximum navigation time in milliseconds, defaults to {int} seconds")
+	@Then("Student_Maximum navigation time in milliseconds, defaults to {int} seconds")
 	public void maximum_navigation_time_in_milliseconds_defaults_to_seconds(Integer int1) {
 		//long elapsedTime = System.currentTimeMillis() - startTime;
 	    final JavascriptExecutor js = (JavascriptExecutor) driver;
@@ -89,7 +89,7 @@ public class Student {
     	assertTrue(loadTime>int1, "Maximum navigation time exceeded!");
 	}
 
-	@Then("HTTP response >= {int}. Then the link is broken")
+	@Then("Student_HTTP response >= {int}. Then the link is broken")
 	public void http_response_then_the_link_is_broken(Integer int1) 
 				throws MalformedURLException, IOException {
       HttpURLConnection cn = 

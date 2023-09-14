@@ -20,6 +20,8 @@ import webdriver_manager.DriverManager;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
 
+import constants.Constants;
+
 public class User {
 	UserModule objUserModule = UserModule.getInstance();
 	WebDriver driver = DriverManager.getDriver();
@@ -57,7 +59,7 @@ public class User {
 				, "'Manage User' not seen in the header");
 	}
 	
-	@Then("Admin should see the pagination controls under the data table")
+	@Then("User_Admin should see the pagination controls under the data table")
 	public void admin_should_see_the_pagination_controls_under_the_data_table() {
 		String txtFooter = objUserModule.getTxtFooterPaginationText().getText();
 		LOGGER.info("Title of footer pagination text is :" + txtFooter);
@@ -211,8 +213,16 @@ public class User {
 	    }
 		LOGGER.info(txtLogMessage);
 	}
+	@Given("User_Admin is on dashboard page after Login")
+	public void admin_is_on_dashboard_page_after_login() {
+		driver.get(Constants.SIGNIN_URL);
+		//driver.manage().window().maximize();
+		//SignPage.Signin(Constants.USERNAME, Constants.PASSWORD);
+		LOGGER.info("Admin is on dashboard page : ");
+		System.out.println("Admin is on dashboard page after login ");
+	}
 	
-	@Given("Admin is on dashboard page after Login and Admin clicks User from navigation bar")
+	@Given("User_Admin is on dashboard page after Login and Admin clicks User from navigation bar")
 	public void admin_is_on_dashboard_page_after_login_and_admin_clicks_from_navigation_bar() {
 		objUserModule.getLnkUserNavigationBar().click();
 		System.out.println("Logged on to LMS portl as Admin");
@@ -407,7 +417,7 @@ public class User {
 	    LOGGER.info("All fields are filled in");	   
 	}
 	
-	@When("any of the fields have invalid values")
+	@When("User_any of the fields have invalid values")
 	public void any_of_the_fields_have_invalid_values() throws IOException {
 		String strFilePath  = System.getProperty("user.dir") + 
 				"/src/test/resources/excelFiles/TestCaseData.xlsx";
@@ -450,13 +460,13 @@ public class User {
 	    LOGGER.info("one field has invalid value");	
 	}
 	
-	@Then("Error message should appear")
+	@Then("User_Error message should appear")
 	public void error_message_should_appear() {
 		boolean isDisplayed = objUserModule.getTxtError().isDisplayed();
 		assertTrue(isDisplayed, "Error message should appear");
 	}
 	
-	@When("Any of the mandatory fields are blank")
+	@When("User_Any of the mandatory fields are blank")
 	public void any_of_the_mandatory_fields_are_blank() {
 		objUserModule.getTxtFName().sendKeys("");
 		objUserModule.getTxtFName().sendKeys("");
@@ -470,7 +480,7 @@ public class User {
 
 	//User3.feature
 
-	@Given("The edit icon on row level in data table is enabled")
+	@Given("User_The edit icon on row level in data table is enabled")
 	public void the_edit_icon_on_row_level_in_data_table_is_enabled() {
 		List<WebElement> el = objUserModule.getUserDetailRows();
 	    boolean displayedFlag = false, enabledFlag = false;
@@ -577,7 +587,7 @@ public class User {
 	    LOGGER.info("Update the fields with invalid values and click submit");	
 	}
 	
-	@When("Erase data from mandatory field")
+	@When("User_Erase data from mandatory field")
 	public void erase_data_from_mandatory_field() {
 		objUserModule.getTxtFName().sendKeys("");
 		LOGGER.info("Erased data from mandetory field");
@@ -597,7 +607,7 @@ public class User {
 
 	
 	//User4.feature
-	@Given("The delete icon on row level in data table is enabled")
+	@Given("User_The delete icon on row level in data table is enabled")
 	public void the_delete_icon_on_row_level_in_data_table_is_enabled() {
 		List<WebElement> el = objUserModule.getUserDetailRows();
 	    int i, cnt = el.size(), cntEditIconD=0, cntEditIconE=0;
@@ -621,7 +631,7 @@ public class User {
 		LOGGER.info(txtLogMessage);	
 	}
 
-	@When("Admin clicks the delete icon")
+	@When("User_Admin clicks the delete icon")
 	public void admin_clicks_the_delete_icon() {
 		List<WebElement> el = objUserModule.getUserDetailRows();
 	    el.get(0).findElement(By.xpath("//delete_icon")).click();

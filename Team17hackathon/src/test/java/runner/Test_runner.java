@@ -8,13 +8,13 @@ import io.cucumber.testng.CucumberOptions;
 //@RunWith(Cucumber.class)
 
 @CucumberOptions(features = 
-	"src/test/resources/features", //student1_PageVerification.feature",
-                 glue = "step_definitions", 
+	"src/test/resources/features",
+                 glue = {"step_definitions"}, 
                  dryRun = false, 
                  monochrome = true,
                  //tags = "@TestStudent2",
                  // tags = "student1_PageVerification.feature",
-		         plugin = { "pretty", "html:target/DsalgoXpathers_Home.html",
+		         plugin = { "pretty", "html:target/Selenium_Brewers.html",
 		        		 "io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm",
 		        		 "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"
 })

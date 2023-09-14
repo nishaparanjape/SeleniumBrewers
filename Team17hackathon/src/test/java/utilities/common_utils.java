@@ -40,7 +40,6 @@ public class common_utils {
 
 			e.printStackTrace();
 		}
-
 		Constants.APP_URL = properties.getProperty("APP_URL");
 		Constants.BROWSER = properties.getProperty("BROWSER");
 		Constants.USERNAME = properties.getProperty("USERNAME");
@@ -49,14 +48,37 @@ public class common_utils {
 		Constants.SIGNIN_URL = properties.getProperty("SIGNIN_URL");
 		Constants.HOME_URL = properties.getProperty("HOME_URL");
 		Constants.EXCEL_PATH = properties.getProperty("EXCEL_PATH");
+		Constants.LOGIN_URL = properties.getProperty("LOGIN_URL");
+		Constants.INVALID_URL = properties.getProperty("INVALID_URL");
+		Constants.Dashboard_URL = properties.getProperty("Dashboard_URL");		
+		Constants.ManageprogrampageURL = properties.getProperty("ManageprogrampageURL");
+		Constants.AddprogrampageURL = properties.getProperty("AddprogrampageURL");
+		//Constants.SIGNIN_URL = properties.getProperty("SIGNIN_URL");
+
 	}
 
 	// All the page class has to be initialized in this method
 	public void initWebElements() {
+		PageFactory.initElements(DriverManager.getDriver(),
+				HomePage.getInstance());
+		PageFactory.initElements(DriverManager.getDriver(),
+				LoginPage.getInstance());
+		PageFactory.initElements(DriverManager.getDriver(),
+			DashboardPage.getInstance());
+		
 		PageFactory.initElements(DriverManager.getDriver(), 
 				StudentModule.getInstance());
+
+		PageFactory.initElements(DriverManager.getDriver(), 
+				ManageProgramPageObj.getInstance());
+		PageFactory.initElements(DriverManager.getDriver(), 
+				BatchPageObj.getInstance());
+		
+		PageFactory.initElements(DriverManager.getDriver(), 
+				ClassPageObject.getInstance());
 		PageFactory.initElements(DriverManager.getDriver(), 
 				UserModule.getInstance());
+		
 //		
 //		PageFactory.initElements(DriverManager.getDriver(), HomePage.getInstance());
 //		PageFactory.initElements(DriverManager.getDriver(), Registerpage.getInstance());
